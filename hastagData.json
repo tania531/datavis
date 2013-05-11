@@ -1,0 +1,489 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "idna-wkgm",
+      "name" : "SAMHSA Hashtag Directory",
+      "attribution" : "SAMHSA",
+      "attributionLink" : "http://twitter.com/samhsagov",
+      "averageRating" : 0,
+      "category" : "Classification",
+      "createdAt" : 1304097468,
+      "description" : "A directory of the Twitter hashtags, and related resources, that @samhsagov uses on a frequent basis. Note: SAMHSA is not responsible for the content using these hashtags aside from posting from SAMHSA's official Twitter account.",
+      "displayType" : "table",
+      "downloadCount" : 563,
+      "numberOfComments" : 0,
+      "oid" : 317050,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1304097468,
+      "publicationGroup" : 228059,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1313895144,
+      "rowsUpdatedBy" : "9h6z-yfu2",
+      "signed" : false,
+      "tableId" : 228059,
+      "totalTimesRated" : 0,
+      "viewCount" : 1500,
+      "viewLastModified" : 1313895144,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 2709740,
+        "name" : "Hashtag",
+        "dataTypeName" : "url",
+        "fieldName" : "hashtag",
+        "position" : 2,
+        "renderTypeName" : "url",
+        "tableColumnId" : 1459455,
+        "width" : 154,
+        "cachedContents" : {
+          "non_null" : 18,
+          "smallest" : {
+            "description" : "#1in5",
+            "url" : "http://search.twitter.com/search?q=%231in5"
+          },
+          "null" : 0,
+          "largest" : {
+            "description" : "#trauma",
+            "url" : "http://search.twitter.com/search?q=%23trauma"
+          },
+          "top" : [ {
+            "count" : 1,
+            "item" : {
+              "description" : "#BHparity",
+              "url" : "http://search.twitter.com/search?q=%23BHparity"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "description" : "#milfam",
+              "url" : "http://search.twitter.com/search?q=%23milfam"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "description" : "#behavioralhealth",
+              "url" : "http://search.twitter.com/search?q=%23behavioralhealth"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "description" : "#1in5",
+              "url" : "http://search.twitter.com/search?q=%231in5"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "description" : "#prevention",
+              "url" : "http://search.twitter.com/search?q=%23prevention"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "description" : "#recoverysupport",
+              "url" : "http://search.twitter.com/search?q=%23recoverysupport"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "description" : "#recoverymonth",
+              "url" : "http://search.twitter.com/search?q=%23recoverymonth"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "description" : "#dataquality",
+              "url" : "http://search.twitter.com/search?q=%23dataquality"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "description" : "#healthIT",
+              "url" : "http://search.twitter.com/search?q=%23healthit"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "description" : "#Prism",
+              "url" : "http://search.twitter.com/search?q=%23prism"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "description" : "#mentalhealthmonth",
+              "url" : "http://search.twitter.com/search?q=%23mentalhealthmonth"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "description" : "#trauma",
+              "url" : "http://search.twitter.com/search?q=%23trauma"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "description" : "#BHintegration",
+              "url" : "http://search.twitter.com/search?q=%23BHintegration"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "description" : "#healthreform",
+              "url" : "http://search.twitter.com/search?q=%23healthreform"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "description" : "#substanceabuse",
+              "url" : "http://search.twitter.com/search?q=%23substanceabuse"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "description" : "#mentalhealth",
+              "url" : "http://search.twitter.com/search?q=%23mentalhealth"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "description" : "#suicideprevention",
+              "url" : "http://search.twitter.com/search?q=%23suicideprevention"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "description" : "#homelessness",
+              "url" : "http://search.twitter.com/search?q=%23homelessness"
+            }
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        },
+        "subColumnTypes" : [ "url", "description" ]
+      }, {
+        "id" : 2709738,
+        "name" : "Topic ",
+        "dataTypeName" : "text",
+        "fieldName" : "topic",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1459453,
+        "width" : 276,
+        "cachedContents" : {
+          "non_null" : 18,
+          "smallest" : "Behavioral Health Integration",
+          "null" : 0,
+          "largest" : "Trauma and Justice",
+          "top" : [ {
+            "count" : 1,
+            "item" : "Military Families"
+          }, {
+            "count" : 1,
+            "item" : "Mental Health"
+          }, {
+            "count" : 1,
+            "item" : "Substance Use/ Substance Abuse"
+          }, {
+            "count" : 1,
+            "item" : "Prevention of Substance Abuse and Mental Illness"
+          }, {
+            "count" : 1,
+            "item" : "Trauma and Justice"
+          }, {
+            "count" : 1,
+            "item" : "Recovery Support"
+          }, {
+            "count" : 1,
+            "item" : "Recovery Month"
+          }, {
+            "count" : 1,
+            "item" : "Mental Health and Substance Abuse Services Parity"
+          }, {
+            "count" : 1,
+            "item" : "Prism Awards"
+          }, {
+            "count" : 1,
+            "item" : "Suicide Prevention"
+          }, {
+            "count" : 1,
+            "item" : "Data, Outcomes, and Quality"
+          }, {
+            "count" : 1,
+            "item" : "Mental Health Awareness Month"
+          }, {
+            "count" : 1,
+            "item" : "Children's Mental Health Awareness Day"
+          }, {
+            "count" : 1,
+            "item" : "Health Information Technology"
+          }, {
+            "count" : 1,
+            "item" : "Health Reform"
+          }, {
+            "count" : 1,
+            "item" : "Behavioral Health Integration"
+          }, {
+            "count" : 1,
+            "item" : "Public Awareness and Support"
+          }, {
+            "count" : 1,
+            "item" : "Homelessness"
+          } ]
+        },
+        "format" : {
+        },
+        "metadata" : {
+          "originalName" : "Topic "
+        }
+      }, {
+        "id" : 2709739,
+        "name" : "Related Link",
+        "dataTypeName" : "url",
+        "fieldName" : "related_link",
+        "position" : 4,
+        "renderTypeName" : "url",
+        "tableColumnId" : 1459454,
+        "width" : 458,
+        "cachedContents" : {
+          "non_null" : 17,
+          "smallest" : {
+            "url" : "http://www.samhsa.gov/children/"
+          },
+          "null" : 1,
+          "largest" : {
+            "url" : "http://www.samhsa.gov/traumaJustice/"
+          },
+          "top" : [ {
+            "count" : 1,
+            "item" : {
+              "url" : "http://store.samhsa.gov/facet/Issues-Conditions-Disorders/term/Substance-Abuse?headerForList="
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "url" : "http://www.samhsa.gov/healthReform/"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "url" : "http://www.samhsa.gov/healthReform/healthHomes/index.aspx"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "url" : "http://www.samhsa.gov/healthReform/parity/"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "url" : "http://www.recoverymonth.gov/"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "url" : "http://www.samhsa.gov/children/"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "url" : "http://www.samhsa.gov/publicAwareness/"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "url" : "http://www.samhsa.gov/dataOutcomes/"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "url" : "http://prismawards.com/"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "url" : "http://www.samhsa.gov/healthIT/"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "url" : "http://store.samhsa.gov/facet/Treatment-Prevention-Recovery/term/Mental-Health-Promotion?headerForList="
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "url" : "http://www.samhsa.gov/recovery/"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "url" : "http://www.samhsa.gov/prevention/suicide.aspx"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "url" : "http://www.nrchmi.samhsa.gov/"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "url" : "http://www.samhsa.gov/prevention/"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "url" : "http://www.samhsa.gov/MilitaryFamilies/"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "url" : "http://www.samhsa.gov/traumaJustice/"
+            }
+          } ]
+        },
+        "format" : {
+        },
+        "metadata" : {
+          "originalName" : "Related Link"
+        },
+        "subColumnTypes" : [ "url", "description" ]
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0"
+      },
+      "owner" : {
+        "id" : "9h6z-yfu2",
+        "displayName" : "andrew",
+        "emailUnsubscribed" : false,
+        "privacyControl" : "login",
+        "profileLastModified" : 1300993861,
+        "roleName" : "administrator",
+        "screenName" : "andrew",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages" ]
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 2709740,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "sortBys" : [ {
+        "id" : 0,
+        "viewColumnId" : 2709740,
+        "flags" : [ "asc" ]
+      } ],
+      "tableAuthor" : {
+        "id" : "9h6z-yfu2",
+        "displayName" : "andrew",
+        "emailUnsubscribed" : false,
+        "privacyControl" : "login",
+        "profileLastModified" : 1300993861,
+        "roleName" : "administrator",
+        "screenName" : "andrew",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages" ]
+      },
+      "tags" : [ "twitter", "hashtags", "social media", "behavioral health" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "E18E2391-7737-439F-ACB2-FA9F537FB27E", 1, 1304097469, "390623", 1304099080, "390623", "{}", [ "http://search.twitter.com/search?q=%231in5", "#1in5" ], "Children's Mental Health Awareness Day", [ "http://www.samhsa.gov/children/", null ] ]
+, [ 2, "C86484F2-E97A-49CA-B9D8-79F9070E2ADF", 2, 1304097469, "390623", 1304099103, "390623", "{}", [ "http://search.twitter.com/search?q=%23behavioralhealth", "#behavioralhealth" ], "Public Awareness and Support", [ "http://www.samhsa.gov/publicAwareness/", null ] ]
+, [ 19, "255C4E0D-AB17-4455-8D11-7BE327F5868F", 19, 1304100296, "390623", 1304100348, "390623", null, [ "http://search.twitter.com/search?q=%23BHintegration", "#BHintegration" ], "Behavioral Health Integration", [ "http://www.samhsa.gov/healthReform/healthHomes/index.aspx", null ] ]
+, [ 18, "4BB9FC23-5578-4CDF-B373-51639D8F16AF", 18, 1304099169, "390623", 1304099312, "390623", null, [ "http://search.twitter.com/search?q=%23BHparity", "#BHparity" ], "Mental Health and Substance Abuse Services Parity", [ "http://www.samhsa.gov/healthReform/parity/", null ] ]
+, [ 3, "1638129E-612B-45AD-825B-BF0CEF99A976", 3, 1304097469, "390623", 1304098166, "390623", "{}", [ "http://search.twitter.com/search?q=%23dataquality", "#dataquality" ], "Data, Outcomes, and Quality", [ "http://www.samhsa.gov/dataOutcomes/", null ] ]
+, [ 4, "5E8ED1C2-8A3B-4F00-AF1C-7946B304EA06", 4, 1304097469, "390623", 1304098190, "390623", "{}", [ "http://search.twitter.com/search?q=%23healthit", "#healthIT" ], "Health Information Technology", [ "http://www.samhsa.gov/healthIT/", null ] ]
+, [ 5, "F02EBF76-F51A-4698-B384-80162FA41F7C", 5, 1304097469, "390623", 1304098210, "390623", "{}", [ "http://search.twitter.com/search?q=%23healthreform", "#healthreform" ], "Health Reform", [ "http://www.samhsa.gov/healthReform/", null ] ]
+, [ 6, "226EE155-30BC-4F0A-BCE9-109DD15A6923", 6, 1304097469, "390623", 1304098225, "390623", "{}", [ "http://search.twitter.com/search?q=%23homelessness", "#homelessness" ], "Homelessness", [ "http://www.nrchmi.samhsa.gov/", null ] ]
+, [ 7, "BAE8362D-1C11-43F4-B5D7-1930218F5067", 7, 1304097469, "390623", 1304098238, "390623", "{}", [ "http://search.twitter.com/search?q=%23mentalhealth", "#mentalhealth" ], "Mental Health", [ "http://store.samhsa.gov/facet/Treatment-Prevention-Recovery/term/Mental-Health-Promotion?headerForList=", null ] ]
+, [ 8, "39798663-AC1A-469D-8F4C-F1826449E80E", 8, 1304097469, "390623", 1304098250, "390623", "{}", [ "http://search.twitter.com/search?q=%23mentalhealthmonth", "#mentalhealthmonth" ], "Mental Health Awareness Month", [ null, null ] ]
+, [ 9, "B63F74EF-B3F8-455D-B109-ED27F88212CB", 9, 1304097469, "390623", 1304098264, "390623", "{}", [ "http://search.twitter.com/search?q=%23milfam", "#milfam" ], "Military Families", [ "http://www.samhsa.gov/MilitaryFamilies/", null ] ]
+, [ 10, "8F95AA2A-9D22-42FB-BB8C-FFBDD55226B9", 10, 1304097469, "390623", 1304098278, "390623", "{}", [ "http://search.twitter.com/search?q=%23prevention", "#prevention" ], "Prevention of Substance Abuse and Mental Illness", [ "http://www.samhsa.gov/prevention/", null ] ]
+, [ 11, "5208E6CE-7777-4E8B-94DF-203AB3F9E966", 11, 1304097469, "390623", 1304098294, "390623", "{}", [ "http://search.twitter.com/search?q=%23prism", "#Prism" ], "Prism Awards", [ "http://prismawards.com/", null ] ]
+, [ 12, "66ABC41C-7393-4D98-96AC-99CE9467DBC5", 12, 1304097469, "390623", 1304098305, "390623", "{}", [ "http://search.twitter.com/search?q=%23recoverymonth", "#recoverymonth" ], "Recovery Month", [ "http://www.recoverymonth.gov/", null ] ]
+, [ 13, "D361D4BD-4FF4-4B5F-B123-59FC445509CA", 13, 1304097469, "390623", 1304098316, "390623", "{}", [ "http://search.twitter.com/search?q=%23recoverysupport", "#recoverysupport" ], "Recovery Support", [ "http://www.samhsa.gov/recovery/", null ] ]
+, [ 14, "B09385DB-A85E-4CF9-9117-6B83C8453B52", 14, 1304097469, "390623", 1304098330, "390623", "{}", [ "http://search.twitter.com/search?q=%23substanceabuse", "#substanceabuse" ], "Substance Use/ Substance Abuse", [ "http://store.samhsa.gov/facet/Issues-Conditions-Disorders/term/Substance-Abuse?headerForList=", null ] ]
+, [ 15, "3A69276A-78D4-4F73-A756-01817D9FA7E8", 15, 1304097469, "390623", 1304098345, "390623", "{}", [ "http://search.twitter.com/search?q=%23suicideprevention", "#suicideprevention" ], "Suicide Prevention", [ "http://www.samhsa.gov/prevention/suicide.aspx", null ] ]
+, [ 16, "5A3BEFB4-5090-4BD3-BED4-80FE0645D628", 16, 1304097469, "390623", 1304098363, "390623", "{}", [ "http://search.twitter.com/search?q=%23trauma", "#trauma" ], "Trauma and Justice", [ "http://www.samhsa.gov/traumaJustice/", null ] ]
+ ]
+}
